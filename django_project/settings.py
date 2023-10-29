@@ -20,7 +20,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = "django-insecure-=a!n%4snx0+s$=-vqyyim3efd&@aj$#4pqg9056a%bu4(wiwxk"
+SECRET_KEY = "django-insecure-9ftn*9$pn2t^gu4_wn)%0!t*by7=mbw=j#^!r%#*^+j$@a84=4"
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -139,4 +139,4 @@ CRISPY_TEMPLATE_PACK = "bootstrap5"
 
 EMAIL_BACKEND = "django.core.mail.backends.console.EmailBackend"
 
-TIME_ZONE = "America/New_York"  # new
+TIME_ZONE = "America/Denver"  # new
